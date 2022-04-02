@@ -3,7 +3,7 @@ Trash Fake Money Generator Made With Python Made By Some Trash Programmer Who Is
 
 Q: Why does it flag as a virus?
 
-A: It's because I'm not a verified uploader/developer person so they aren't sure whether it's safe or not.
+A: It's because I'm not a verified uploader/developer person so Microsoft/Linux/Mac idk whatever you use isn't sure whether it's safe or not.
 
 
 Q: Why should I trust you?
